@@ -59,15 +59,15 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Google Podcasts',
-			icon: 'podcasts',
-			link: 'https://todoist.com',
-		},
-		{
-			id: '3',
 			name: 'Mail',
 			icon: 'mail',
 			link: 'https://mail.google.com/',
+		},
+		{
+			id: '3',
+			name: 'Todoist',
+			icon: 'trello',
+			link: 'https://todoist.com',
 		},
 		{
 			id: '4',
@@ -79,7 +79,7 @@ const CONFIG = {
 			id: '5',
 			name: 'Reddit',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://podcasts.google.com',
 		},
 		{
 			id: '6',
