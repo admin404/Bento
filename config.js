@@ -78,7 +78,7 @@ const CONFIG = {
 		{
 			id: '5',
 			name: 'Reddit',
-			icon: 'podcasts',
+			icon: 'podcast',
 			link: 'https://podcasts.google.com',
 		},
 		{
