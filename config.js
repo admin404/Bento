@@ -165,16 +165,16 @@ const CONFIG = {
 					link: 'https://alternativeto.net/',
 				},
 				{
-					name: '',
-					link: '',
+					name: 'BankHapoalim',
+					link: 'https://www.bankhapoalim.co.il/he',
 				},
 				{
-					name: '',
-					link: '',
+					name: 'GNU License',
+					link: 'https://www.gnu.org/licenses/gpl-3.0.txt',
 				},
 				{
-					name: '',
-					link: '',
+					name: 'G Fonts',
+					link: 'https://fonts.google.com',
 				},
 			],
 		},
