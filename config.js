@@ -147,8 +147,8 @@ const CONFIG = {
 					link: 'https://music.youtube.com/',
 				},
 				{
-					name: 'Google Podcasts',
-					link: 'https://podcasts.google.com',
+					name: 'Netflix',
+					link: 'https://netflix.com',
 				},
 				{
 					name: 'Odysee',
