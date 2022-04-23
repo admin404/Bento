@@ -169,12 +169,12 @@ const CONFIG = {
 					link: 'https://www.bankhapoalim.co.il/he',
 				},
 				{
-					name: 'GNU License',
-					link: 'https://www.gnu.org/licenses/gpl-3.0.txt',
-				},
-				{
 					name: 'G Fonts',
 					link: 'https://fonts.google.com',
+				},
+				{
+					name: 'GNU License',
+					link: 'https://www.gnu.org/licenses/gpl-3.0.txt',
 				},
 			],
 		},
