@@ -41,6 +41,7 @@
   /* Dark Colors  */
   --accent: #57a0d9; /* Hover color */
   --background: #19171a; /* Background color */
+/*  --background: url("https://addons-media.operacdn.com/media/themes/66/270166/1.0-rev1/animations/video_preview.webm");*/
   --cards: #201e21; /* Cards color */
 
   /* Fonts Color */
@@ -71,7 +72,7 @@
 body {
   width: 100vw;
   height: 100vh;
-  background-color: var(--background);
+  background: var(--background);
   display: flex;
   align-items: center;
   justify-content: center;
