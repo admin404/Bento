@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'George',
-	imageBackground: true,
+	imageBackground: false,
 	openInNewTab: false,
 	twelveHourFormat: false,
 
@@ -27,7 +27,7 @@ const CONFIG = {
 
 	// Weather
 	weatherKey: 'c751ce7d9f0f9400b2fa6be448c859bb', // Write here your API Key
-	weatherIcons: 'Nord', // 'Onedark', 'Nord', 'Dark', 'White'
+	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'YouTube',
-			icon: 'youtube',
-			link: 'https://youtube.com/',
+			name: 'Inoreader',
+			icon: 'Inoreader',
+			link: 'https://www.inoreader.com',
 		},
 	],
 
