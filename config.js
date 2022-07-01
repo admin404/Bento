@@ -84,7 +84,7 @@ const CONFIG = {
 		{
 			id: '6',
 			name: 'Inoreader',
-			icon: 'Inoreader',
+			icon: 'inoreader',
 			link: 'https://www.inoreader.com',
 		},
 	],
